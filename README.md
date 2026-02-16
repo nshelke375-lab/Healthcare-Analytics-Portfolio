@@ -2,14 +2,14 @@
 
 ## About Me
 B.Pharm graduate transitioning into Healthcare & Pharma Data Analytics.
-Building hands-on projects using SQL, Excel, Python, R, and Tableau/Power BI.
+Building hands-on projects using SQL, Excel, Python, R, and Power BI.
 
 ## Skills (In Progress)
 - SQL
 - Excel
 - Python
 - R
-- Tableau / Power BI
+- Power BI
 - Healthcare & Pharma Analytics
 
 ## Case Studies
